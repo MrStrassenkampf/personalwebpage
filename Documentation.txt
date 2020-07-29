@@ -1,0 +1,3 @@
+- Jekyll tutorial gemacht
+
+- minimal theme eingebunden über _sass und assets
